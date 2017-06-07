@@ -18,4 +18,4 @@
 
 ## C
 
-
+### [SO List of Resources](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list)
